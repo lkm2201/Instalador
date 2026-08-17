@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.git/
+logs/
+temp/
+*.log
+*.deb
+deb-build/
+.pytest_cache/
+.mypy_cache/
